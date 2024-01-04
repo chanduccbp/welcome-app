@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.container {
+  height: 100vh;
+  background-color: #1e293b;
+  font-family: 'bree serif';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #f0bb03;
+}
+
+p {
+  color: #ffffff;
+}
+
+.butt {
+  border-radius: 5px;
+  border-style: none;
+  color: #1e293b;
+}
